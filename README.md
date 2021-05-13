@@ -4,6 +4,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+and more
 --->
 <!---
 juandabit18/juandabit18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
